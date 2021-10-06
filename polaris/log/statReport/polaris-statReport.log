@@ -1,0 +1,3 @@
+2021-09-09 22:27:47.572466Z	info	statReport	monitor/stat_monitor.go:540	D8113C3A-C3EF-43B5-B094-62CA000A1407, discover not ready, sleep 1s to wait discover ready to report config
+2021-09-09 22:29:59.302044Z	info	statReport	monitor/stat_monitor.go:540	77E98CF2-A909-40B4-9D30-D0E49DF92A43, discover not ready, sleep 1s to wait discover ready to report config
+2021-09-09 22:30:00.303265Z	error	statReport	monitor/stat_monitor.go:550	77E98CF2-A909-40B4-9D30-D0E49DF92A43, after sleep 1s, discover still not ready, skip first report config
